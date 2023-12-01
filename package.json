@@ -1,0 +1,12 @@
+{
+    "name": "com.senfinecogames.toonwatershader",
+    "version": "1.0.0",
+    "displayName": "Lazy's Toon Water Shader",
+    "description": "A simple toon water shader made by Lazy from Senfineco Games. Look the website for details!",
+    "unity": "2022.3",
+    "licensesUrl": "https://www.gnu.org/licenses/gpl-3.0.en.html#license-text",
+    "author": {
+      "name": "Lazy",
+      "url": "https://www.senfinecogames.com/"
+    }
+  }
