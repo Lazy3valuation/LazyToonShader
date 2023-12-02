@@ -27,6 +27,6 @@ There are a ton of settings in the shader, be careful which one you use! Shader 
 
 Huge thanks to: 
 
-Cyan (https://twitter.com/cyanilux), helped me with Forward+ and some graphic effects!
+Cyan (https://twitter.com/cyanilux), helped me with Forward+ and some graphic effects! 
 
 NedMakesGames (https://twitter.com/NedMakesGames), its toon shader tutorials have been very useful!
