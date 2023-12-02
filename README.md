@@ -11,7 +11,7 @@ Works **ONLY** with terrain mesh that has smooth normals! **Coming soon** the sh
 
 **HOW TO USE:**
 1) Download and install the package: on this repo, select "Clone repository", copy the link. Go to Unity, "Window/Package Manager", in the upper-left corner there's a "+". Click it, select "Add package from GIT URL", paste the link you copied, and confirm.
-2) Grab your terrain to your scene.
+2) Add your terrain to your scene.
 3) Create another child gameobject attached to the terrain, call it "Water". Set its position to (0, 0, 0) and scale to (1, 1, 1).
 4) Add a MeshFilter and MeshRenderer to the Water gameobject.
 5) Copy the terrain mesh from the terrain to the Water gameobject (they must have the same mesh!)
