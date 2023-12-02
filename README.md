@@ -30,3 +30,6 @@ Huge thanks to:
 Cyan (https://twitter.com/cyanilux), helped me with Forward+ and some graphic effects! 
 
 NedMakesGames (https://twitter.com/NedMakesGames), its toon shader tutorials have been very useful!
+
+
+https://ko-fi.com/senfinecogames
