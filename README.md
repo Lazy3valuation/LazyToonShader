@@ -5,8 +5,10 @@ Toon water shader for unity!
 Check out more at https://www.senfinecogames.com/ or https://twitter.com/senfinecogames!
 
 
-Works **ONLY** in **URP!** Forward+ compatible! Tested on Unity 2022.3
-Works **ONLY** with terrain mesh that has smooth normals! **Coming soon** the shader that works in a plane (with waves that goes to random directions). 
+Works **ONLY** in **URP!** Forward+ compatible! Tested on Unity 2022.3  
+Works **ONLY** with terrain mesh that has smooth normals!  
+
+**Coming soon** Shader that works in a plane, with waves that goes in random or fixed directions.
 
 
 **HOW TO USE:**
